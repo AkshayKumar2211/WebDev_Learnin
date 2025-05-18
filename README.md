@@ -1,2 +1,2 @@
-# WebDev_Learnin
-This repo all my project while learn ing web developement
+# WebDev_Learning
+This repo contain all my projects while i am learning web developement.
