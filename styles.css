@@ -1,0 +1,14 @@
+.full{
+    background-color:red;
+    width:100vw;
+    height:100vh;
+    display:flex;
+    align-item:center;
+    justify_content:center;
+
+}
+
+#change{
+  color:blue;
+  background-color:brown;
+}
